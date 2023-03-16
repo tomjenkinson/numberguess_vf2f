@@ -1,0 +1,5 @@
+build:
+  uri: https://github.com/tomjenkinson/numberguess_vf2f.git
+  ref: main
+deploy:
+  replicas: 1
