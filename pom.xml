@@ -195,6 +195,7 @@
                                 </feature-pack>
                             </feature-packs>
                             <layers>
+                                <layer>jsf</layer>
                                 <layer>cloud-server</layer>
                             </layers>
                             <filename>ROOT.war</filename>
